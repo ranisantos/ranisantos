@@ -16,12 +16,13 @@ object **RANIEL** {
 
 ## **GitHub Estatísticas**
 
+
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranisantos&theme=dracula&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranisantos&hide=html&layout=compact&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranisantos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranisantos&theme=dark&hide_langs_below=1" />
 </a>
 
 [twitter]: https://twitter.com/Rannysan
